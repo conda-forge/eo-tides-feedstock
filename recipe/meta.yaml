@@ -1,5 +1,5 @@
 {% set name = "eo-tides" %}
-{% set version = "0.10.0" %}
+{% set version = "0.10.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/eo_tides-{{ version }}.tar.gz
-  sha256: aaebb1d55d7d3c19622e3463d483c5eaf2b68784f5874ba66fcaa164a0953e4a
+  sha256: 5c06ddfbd5e9d78d43d109476e9e8e449ceeb86bac32f735b56a60f202b239d4
 
 build:
   noarch: python
