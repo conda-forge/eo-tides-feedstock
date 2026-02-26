@@ -3,11 +3,13 @@ About eo-tides-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eo-tides-feedstock/blob/main/LICENSE.txt)
 
-Home: https://pypi.org/project/eo-tides/
+Home: https://geoscienceaustralia.github.io/eo-tides/
 
 Package license: Apache-2.0
 
 Summary: Tide modelling tools for large-scale satellite earth observation analysis
+
+Documentation: https://geoscienceaustralia.github.io/eo-tides/
 
 Current build status
 ====================
